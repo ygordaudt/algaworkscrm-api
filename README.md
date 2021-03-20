@@ -2,7 +2,10 @@
 
 Este sistema foi desenvolvido com o intuito de estudar as referidas tecnologias de Java durante um treinamento realizado pelo AlgaWorks.
 
-Passo a Passo:
+Link da aula:
+https://www.youtube.com/watch?v=9GWK9A79tEc&list=PLxZ62G53EZzLsN13QISWG7dCAKgUh7Qeg&index=17&t=1719s
+
+##Passo a Passo:
 
 1) Criar novo projeto Spring Innitializer
 
