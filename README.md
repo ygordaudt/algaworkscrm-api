@@ -79,5 +79,6 @@ Dicas:
 1) Adicionar o comando spring.jpa.show-sql=true em src\main\resources\application.properties para exibir o log de comandos SQL executados durante as requisições REST.
 
 
-
+Métodos:
+Get e POST: localhost:8080/clientes
 
